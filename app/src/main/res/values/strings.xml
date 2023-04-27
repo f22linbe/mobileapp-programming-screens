@@ -2,6 +2,6 @@
     <string name="app_name">Screens</string>
     <string name="second_activity_string">Here is my 2nd activity!</string>
     <string name="my_fragment_heading">Here is my fragment!</string>
-    <string name="start_activity_button">Click me!</string>
-    <string name="close_activity_button">Close activity!</string>
+    <string name="start_activity_button">Start</string>
+    <string name="close_activity_button">Close</string>
 </resources>
